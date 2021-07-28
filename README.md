@@ -1,1 +1,1 @@
-# fowaadb-Chest-x-ray-COVID-Pneumonia-Lung-opacity-Classifier
+# Chest-x-ray-COVID-Pneumonia-Lung-opacity-Classifier
